@@ -48,13 +48,6 @@ This is a simple To-Do List application. It allows users to manage their tasks. 
 
 4. Start the application using `npm start`.
 
-## Usage
-
-1.  Add tasks with a simple click.
-2.  Edit task names by double-clicking on them.
-3.  Mark tasks as completed by clicking on the checkbox.
-4.  Delete tasks by clicking on the trash icon.
-
 ## HOW TO MAKE A PULL REQUEST
 
 **1.** Start by making a fork the [**ToDoList v1.0**](https://github.com/AyushTripathiIITP/ToDoList-v1.0/) repository. Click on the <a href="https://github.com/AyushTripathiIITP/ToDoList-v1.0/fork"><img src="https://i.imgur.com/G4z1kEe.png" height="21" width="21"></a> symbol at the top right corner.
@@ -96,6 +89,13 @@ git push origin <YourBranchName>
 **11.** Create a [Pull Request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)!
 
 **12.** **Congratulations!** You've made your first contribution! 🙌🏼
+
+## Usage
+
+1.  Add tasks with a simple click.
+2.  Edit task names by double-clicking on them.
+3.  Mark tasks as completed by clicking on the checkbox.
+4.  Delete tasks by clicking on the trash icon.
 
 ## Why & How to contribute?
 
